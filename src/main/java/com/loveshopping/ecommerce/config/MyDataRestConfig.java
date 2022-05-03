@@ -1,4 +1,4 @@
-package com.luv2code.ecommerce.config;
+package com.loveshopping.ecommerce.config;
 
 import com.loveshopping.ecommerce.entity.*;
 import org.springframework.beans.factory.annotation.Autowired;
